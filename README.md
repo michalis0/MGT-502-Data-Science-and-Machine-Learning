@@ -2,7 +2,7 @@
 
 ## Lab Content:
 
-- Week1: Data acquisition: Web scraping, API
+- [Week1](/01_Data_acquisition_API): Data acquisition: Web scraping, API
 - Week2: Linear Regression: Multivariate linear regression, Polynomial regression, Regularization (Lasso, Ridge), Cross validation, Train-Test split, MAE, MSE
 - Week3: Classification 1: Logistic regression, Accuracy, Confusion Matrix, Precision, Recall, F1-score, Roc Curves.
 - Week4: Classification 2: KNN Classifier, Trees, Ensembles
