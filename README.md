@@ -7,6 +7,7 @@
 - [Week3: Classification 1](/03_Classification): Logistic regression, Accuracy, Confusion Matrix, Precision, Recall, F1-score
 - [Week4: Classification 2](/04_Classification-2): KNN Classifier, Decision Trees
 - [Week 5: Clustering](05_Clustering): K-Means, Hierarchical clustering, Dendrogram
+- [Week 6: Association Rules](06_Association-Rules): Association rule mining, Apriori algorithm
 
 ## Data to explore
 - [OpenML](https://www.openml.org/)
