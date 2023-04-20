@@ -8,7 +8,8 @@
 - [Week4: Classification 2](/04_Classification-2): KNN Classifier, Decision Trees
 - [Week 5: Clustering](05_Clustering): K-Means, Hierarchical clustering, Dendrogram
 - [Week 6: Association Rules](06_Association-Rules): Association rule mining, Apriori algorithm
-- [Week 7: Recommender systems](07_Recommenders): User-User Collaborative Filtering (from scratch and using Surprise library), Mean-centered cosine similarity, Precision and Recall at rank k, Precision-recall curve 
+- [Week 7: Recommender systems](07_Recommenders): User-User Collaborative Filtering (from scratch and using Surprise library), Mean-centered cosine similarity, Precision and Recall at rank k, Precision-recall curve
+- [Week 8: Text analytics](08_Text-analytics): Text preparation (Tokenization, Lemmatization, Stopwords), Text representation (Bag of Words, TF-IDF), Text structure (Dependency Parsing, Entity recognition), Text similarity (cosine similarity)  
 
 ## Data to explore
 - [OpenML](https://www.openml.org/)
