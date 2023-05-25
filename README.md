@@ -12,7 +12,8 @@
 - [Week 9: Text analytics 2](08_Text-analytics-2): Text embeddings, Bag of Words, TF-IDF, Word2vec, application to text classification
 - [Week 10: Neural Networks](10_Neural-Nets): Using PyTorch to build NN models, Artificial Neuron, Multilayer Perceptron, Using existing models from Huggingface.
 - [Week 11: Graph Analytics](11_Graph-Analytics): creating, visualizing and analyzing graphs with NetworkX (Undirected Graph, Directed Graph, Weighted Graph, Erdős–Rényi graph, Zachary's karate club graph), Shortest path, Diameter, Centrality, Degree, PageRank, Community Detection 
-- [Week 12: Dimensionality Reduction](12_Dimensionality-Reduction):
+- [Week 12: Chatbots](12_Chatbots)
+- [Week 13: Dimensionality Reduction](13_Dimensionality-Reduction): PCA, t-SNE, MDS, Isomap
 
 ## Data to explore
 - [OpenML](https://www.openml.org/)
