@@ -1,19 +1,20 @@
 # MGT-502 Data Science and Machine Learning
 
 ## Lab Content:
-- [Week1: Data acquisition](/01_Data_acquisition_API): Web scraping, Calling Internet APIs
-- [Week2: Linear Regression](/02_Regression): Multivariate linear regression, Polynomial regression, Regularization (Lasso, Ridge), Cross validation, Train-Test split, MAE, MSE
-- [Week3: Classification 1](/03_Classification): Logistic regression, Accuracy, Confusion Matrix, Precision, Recall, F1-score
-- [Week4: Classification 2](/04_Classification-2): KNN Classifier, Decision Trees
-- [Week 5: Clustering](05_Clustering): K-Means, Hierarchical clustering, Dendrogram
-- [Week 6: Association Rules](06_Association-Rules): Association rule mining, Apriori algorithm
-- [Week 7: Recommender systems](07_Recommenders): User-User Collaborative Filtering (from scratch and using Surprise library), Mean-centered cosine similarity, Precision and Recall at rank k, Precision-recall curve
-- [Week 8: Text analytics](08_Text-analytics): Text preparation (Tokenization, Lemmatization, Stopwords), Text representation (Bag of Words, TF-IDF), Text structure (Dependency Parsing, Entity recognition), Text similarity (cosine similarity)  
-- [Week 9: Text analytics 2](08_Text-analytics-2): Text embeddings, Bag of Words, TF-IDF, Word2vec, application to text classification
-- [Week 10: Neural Networks](10_Neural-Nets): Using PyTorch to build NN models, Artificial Neuron, Multilayer Perceptron, Using existing models from Huggingface.
-- [Week 11: Graph Analytics](11_Graph-Analytics): creating, visualizing and analyzing graphs with NetworkX (Undirected Graph, Directed Graph, Weighted Graph, Erdős–Rényi graph, Zachary's karate club graph), Shortest path, Diameter, Centrality, Degree, PageRank, Community Detection 
-- [Week 12: Chatbots](12_Chatbots)
-- [Week 13: Dimensionality Reduction](13_Dimensionality-Reduction): PCA, t-SNE, MDS, Isomap
+- [Week 1: Data acquisition](/01_Data_acquisition_API): Web scraping, Calling Internet APIs
+- [Week 2: Linear Regression](/02_Regression): Multivariate linear regression, Polynomial regression, Regularization (Lasso, Ridge), Cross validation, Train-Test split, MAE, MSE
+- [Week 3: Classification 1](/03_Classification): Logistic regression, Accuracy, Confusion Matrix, Precision, Recall, F1-score
+- [Week 4: Classification 2](/04_Classification-2): KNN Classifier, Decision Trees
+- [Week 5: Neural Networks](05_Neural-Nets): Using PyTorch to build NN models, Artificial Neuron, Multilayer 
+- [Week 6.1: Text analytics 1](06_Text-analytics): Text preparation (Tokenization, Lemmatization, Stopwords), Text representation (Bag of Words, TF-IDF), Text structure (Dependency Parsing, Entity recognition), Text similarity (cosine similarity)  
+- [Week 6.2: Text analytics 2](06_Text-analytics-2): Text embeddings, Bag of Words, TF-IDF, Word2vec, application to text classification
+Perceptron, Using existing models from Huggingface.
+- [Week 7: Gen AI](07_Gen-AI)
+- Week 8: Easter break
+- [Week 9: Recommender systems](09_Recommenders): User-User Collaborative Filtering (from scratch and using Surprise library), Mean-centered cosine similarity, Precision and Recall at rank k, Precision-recall curve
+- [Week 10: Dimensionality Reduction](10_Dimensionality-Reduction): PCA, t-SNE, MDS, Isomap
+- [Week 11: Clustering](11_Clustering): K-Means, Hierarchical clustering, Dendrogram
+- [Week 12: Graph Analytics](12_Graph-Analytics): creating, visualizing and analyzing graphs with NetworkX (Undirected Graph, Directed Graph, Weighted Graph, Erdős–Rényi graph, Zachary's karate club graph), Shortest path, Diameter, Centrality, Degree, PageRank, Community Detection 
 
 ## Data to explore
 - [OpenML](https://www.openml.org/)
