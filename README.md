@@ -5,14 +5,12 @@
 - [Week 2: Linear Regression](/02_Regression): Multivariate linear regression, Polynomial regression, Regularization (Lasso, Ridge), Cross validation, Train-Test split, MAE, MSE
 - [Week 3: Classification 1](/03_Classification): Logistic regression, Accuracy, Confusion Matrix, Precision, Recall, F1-score
 - [Week 4: Classification 2](/04_Classification-2): KNN Classifier, Decision Trees
-- [Week 5: Neural Networks](05_Neural-Nets): Using PyTorch to build NN models, Artificial Neuron, Multilayer 
-- [Week 6.1: Text analytics 1](06_Text-analytics): Text preparation (Tokenization, Lemmatization, Stopwords), Text representation (Bag of Words, TF-IDF), Text structure (Dependency Parsing, Entity recognition), Text similarity (cosine similarity)  
-- [Week 6.2: Text analytics 2](06_Text-analytics-2): Text embeddings, Bag of Words, TF-IDF, Word2vec, application to text classification
-Perceptron, Using existing models from Huggingface.
+- [Week 5: Neural Networks](05_Neural-Nets): Using PyTorch to build NN models, Artificial Neuron, Multilayer Perceptron, Using existing models from Huggingface.
+- [Week 6: Text analytics](06_Text-analytics): Text preparation (Tokenization, Lemmatization, Stopwords), Text representation (Bag of Words, TF-IDF), Text structure (Dependency Parsing, Entity recognition), Text similarity (cosine similarity); Text embeddings, Bag of Words, TF-IDF, Word2vec, application to text classification
 - [Week 7: Gen AI](07_Gen-AI)
 - Week 8: Easter break
 - [Week 9: Recommender systems](09_Recommenders): User-User Collaborative Filtering (from scratch and using Surprise library), Mean-centered cosine similarity, Precision and Recall at rank k, Precision-recall curve
-- Week 10 and 11: Unsupervised Learning [Dimensionality Reduction](09_Dimensionality-Reduction): PCA, t-SNE, MDS, Isomap, [Clustering](10_Clustering): K-Means, Hierarchical clustering, Dendrogram, [Association Rules](11_Association-Rules):
+- Week 10 and 11: Unsupervised Learning: [Dimensionality Reduction](09_Dimensionality-Reduction): PCA, t-SNE, MDS, Isomap; [Clustering](10_Clustering): K-Means, Hierarchical clustering, Dendrogram; [Association Rules](11_Association-Rules)
 - [Week 12: Graph Analytics](12_Graph-Analytics): creating, visualizing and analyzing graphs with NetworkX (Undirected Graph, Directed Graph, Weighted Graph, Erdős–Rényi graph, Zachary's karate club graph), Shortest path, Diameter, Centrality, Degree, PageRank, Community Detection 
 
 ## Data to explore
