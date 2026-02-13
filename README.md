@@ -12,7 +12,7 @@ Perceptron, Using existing models from Huggingface.
 - [Week 7: Gen AI](07_Gen-AI)
 - Week 8: Easter break
 - [Week 9: Recommender systems](09_Recommenders): User-User Collaborative Filtering (from scratch and using Surprise library), Mean-centered cosine similarity, Precision and Recall at rank k, Precision-recall curve
-- Unsupervised Learning: Week 10 and 11 [Dimensionality Reduction](09_Dimensionality-Reduction): PCA, t-SNE, MDS, Isomap, [Clustering](10_Clustering): K-Means, Hierarchical clustering, Dendrogram, [Association Rules](11_Association-Rules):
+- Week 10 and 11: Unsupervised Learning [Dimensionality Reduction](09_Dimensionality-Reduction): PCA, t-SNE, MDS, Isomap, [Clustering](10_Clustering): K-Means, Hierarchical clustering, Dendrogram, [Association Rules](11_Association-Rules):
 - [Week 12: Graph Analytics](12_Graph-Analytics): creating, visualizing and analyzing graphs with NetworkX (Undirected Graph, Directed Graph, Weighted Graph, Erdős–Rényi graph, Zachary's karate club graph), Shortest path, Diameter, Centrality, Degree, PageRank, Community Detection 
 
 ## Data to explore
