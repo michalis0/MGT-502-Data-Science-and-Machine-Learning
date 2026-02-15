@@ -16,7 +16,7 @@
 ## Assignments:
 Only solve the assignment for the current week, because assignments for upcoming weeks are subject to modifications.
 
-- Assignment 1
+- [Assignment 1](assignments/Part%201)
 
 ## Data to explore
 - [OpenML](https://www.openml.org/)
