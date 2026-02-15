@@ -11,7 +11,12 @@
 - Week 8: Easter break
 - [Week 9: Recommender systems](09_Recommenders): User-User Collaborative Filtering (from scratch and using Surprise library), Mean-centered cosine similarity, Precision and Recall at rank k, Precision-recall curve
 - Week 10 and 11: Unsupervised Learning: [Dimensionality Reduction](09_Dimensionality-Reduction): PCA, t-SNE, MDS, Isomap; [Clustering](10_Clustering): K-Means, Hierarchical clustering, Dendrogram; [Association Rules](11_Association-Rules)
-- [Week 12: Graph Analytics](12_Graph-Analytics): creating, visualizing and analyzing graphs with NetworkX (Undirected Graph, Directed Graph, Weighted Graph, Erdős–Rényi graph, Zachary's karate club graph), Shortest path, Diameter, Centrality, Degree, PageRank, Community Detection 
+- [Week 12: Graph Analytics](12_Graph-Analytics): creating, visualizing and analyzing graphs with NetworkX (Undirected Graph, Directed Graph, Weighted Graph, Erdős–Rényi graph, Zachary's karate club graph), Shortest path, Diameter, Centrality, Degree, PageRank, Community Detection
+
+## Assignments:
+Only solve the assignment for the current week, because assignments for upcoming weeks are subject to modifications.
+
+- Assignment 1
 
 ## Data to explore
 - [OpenML](https://www.openml.org/)
